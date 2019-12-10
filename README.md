@@ -1,2 +1,8 @@
-# advent-of-code-2019
-Solutions for 2019's Advent of Code challenge at http://www.adventofcode.com.
+# Advent of Code 2019
+
+Solutions provided in the following languages (generally the easiest language for each problem):
+
+* C++
+* Java
+* R
+* Python
