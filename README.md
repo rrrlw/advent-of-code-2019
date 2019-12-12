@@ -5,4 +5,3 @@ Solutions provided in the following languages (generally the easiest language fo
 * C++
 * Java
 * R
-* Python
