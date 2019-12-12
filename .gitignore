@@ -1,0 +1,4 @@
+# ignore executables and input/test input files
+*.in
+*.txt
+*.exe
